@@ -1,0 +1,4 @@
+Tervetuloa tähän repoon!
+
+Tässä GitHub-repositoriossa on "säilössä" muutamia suomenkielisiä, avoimen lähdekoodin projektien suomenkielisiä käännöksiä. Niitä on sekä .mo- että .po-tiedostoina. Voit ladata niitä omalle tietokoneellesi aivan vapaasti käyttöösi.
+Kiitos ja kunnia myös kaikille muille, jotka ovat osallistuneet täällä säilössä olevien projektien kääntämiseen.
